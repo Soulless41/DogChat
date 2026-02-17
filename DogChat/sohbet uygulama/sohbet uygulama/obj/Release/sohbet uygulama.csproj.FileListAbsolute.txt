@@ -1,0 +1,8 @@
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\bin\Release\sohbet uygulama.exe.config
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\bin\Release\sohbet uygulama.exe
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\bin\Release\sohbet uygulama.pdb
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Release\sohbet_uygulama.Form1.resources
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Release\sohbet_uygulama.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Release\sohbet uygulama.csproj.GenerateResource.Cache
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Release\sohbet uygulama.exe
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Release\sohbet uygulama.pdb

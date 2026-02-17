@@ -1,0 +1,18 @@
+c:\users\ogrenci\documents\visual studio 2012\Projects\sohbet uygulama\sohbet uygulama\bin\Debug\sohbet uygulama.exe.config
+c:\users\ogrenci\documents\visual studio 2012\Projects\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet_uygulama.Form2.resources
+c:\users\ogrenci\documents\visual studio 2012\Projects\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet_uygulama.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2012\Projects\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet uygulama.csproj.GenerateResource.Cache
+C:\Users\Ogrenci\Documents\Visual Studio 2012\Projects\sohbet uygulama\sohbet uygulama\bin\Debug\sohbet uygulama.exe
+C:\Users\Ogrenci\Documents\Visual Studio 2012\Projects\sohbet uygulama\sohbet uygulama\bin\Debug\sohbet uygulama.pdb
+C:\Users\Ogrenci\Documents\Visual Studio 2012\Projects\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet_uygulama.Form1.resources
+C:\Users\Ogrenci\Documents\Visual Studio 2012\Projects\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet uygulama.exe
+C:\Users\Ogrenci\Documents\Visual Studio 2012\Projects\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet uygulama.pdb
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\bin\Debug\sohbet uygulama.exe.config
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet uygulama.exe
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet uygulama.pdb
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\bin\Debug\sohbet uygulama.exe
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\bin\Debug\sohbet uygulama.pdb
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet_uygulama.Form1.resources
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet_uygulama.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\DogChat-main\DogChat-main\sohbet uygulama\sohbet uygulama\obj\Debug\sohbet uygulama.csproj.GenerateResource.Cache
